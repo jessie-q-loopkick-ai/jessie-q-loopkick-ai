@@ -8,7 +8,7 @@
 
 🤝 Open to collaborating on start-ups, SMEs, or any brave idea worth chasing
 
-📫 Reach me at jessie.qin@loopkick.ai or via [my website](https://loopkick.ai)
+📫 Reach me at jessie.qin@loopkick.ai or via [loopkick.ai](https://loopkick.ai)
 
 ### 🛠️ Tech Stack
 
